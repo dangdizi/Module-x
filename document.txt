@@ -1,0 +1,18 @@
+để có thể nhúng javascript vào trong trang web chúng ta có hai cách
+- chúng ta đặt thẻ <script></script> bên trên thẻ đóng của <body>
+
+- tạo file với đuôi .js bên ngoài rồi link vào bằng cặp thẻ <script></script> với thuộc tính src=""
+
+cách khai báo biến
+- biến: là nơi lưu trữ giá trị.
+
+các cách khai báo biến:
+var <tên biến> = <giá trị>
+
+quy tắc đặt tên:
+- tên biến là một danh từ
+- phải bằng tiếng anh
+- viết theo kiểu cammel case (côn lạc đà: những biến nào có hai từ trở lên thì từ đầu tiên viết thường, từ đầu tiên từ 2 viết hoa)
+- không chứa các lý tự đặc biệt trừ $ và _
+- Tên biến không bắt đầu bằng 1 số
+- Tên biến phải có ý nghĩa
